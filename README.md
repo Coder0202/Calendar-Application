@@ -99,5 +99,5 @@ public String toString() {
 }
 Used to display each event in the JList as a formatted string.
 
-This is what you see in the UI list.
+
 
